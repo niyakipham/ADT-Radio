@@ -77,6 +77,17 @@ Sau đây là những lệnh mà bot thực thi
 | <kbd>!xgif</kbd> | Lệnh này sẽ random ảnh GIF Hentai |
 
 ## SERVICE
-> 1. Giới thiệu Khi bạn thêm và sử dụng Bot Discord của chúng tôi (gọi là "Bot"), bạn đồng ý tuân thủ các điều khoản sau đây. Điều khoản này có thể được cập nhật bất kỳ lúc nào mà không cần thông báo trước, và bạn có trách nhiệm kiểm tra thường xuyên để cập nhật các thay đổi. 
+> 1. Giới thiệu: Khi bạn thêm và sử dụng Bot Discord của chúng tôi (gọi là "Bot"), bạn đồng ý tuân thủ các điều khoản sau đây. Điều khoản này có thể được cập nhật bất kỳ lúc nào mà không cần thông báo trước, và bạn có trách nhiệm kiểm tra thường xuyên để cập nhật các thay đổi. 
 
->2. Điều kiện sử dụng
+>2. Điều kiện sử dụng: Bạn phải ít nhất 18 tuổi để sử dụng Discord và bot của chúng tôi, tuân thủ theo chính sách của Discord.
+
+>3. Trách nhiệm: Chúng tôi cam kết bot sẽ không làm server của bạn tấn công, mã nguồn tôi đăng lên để dùng vào mục đích học tập, chúng tôi từ chối mọi trách nhiệm mà bạn dùng bot để làm mục đích xấu
+
+>4. Nội dung và Quyền sở hữu trí tuệ:
+** Tất cả mã nguồn, nội dung, và tài liệu liên quan đến bot đều thuộc sở hữu của chúng tôi hoặc đối tác hợp tác của chúng tôi, và được bảo vệ bởi các luật về sở hữu trí tuệ. Bạn không được phép sao chép, phân phối, hoặc chỉnh sửa bot mà không có sự cho phép bằng văn bản từ chúng tôi. **
+
+>5. Cập nhật và thay đổi dịch vụ: Chúng tôi có quyền cập nhật, thay đổi hoặc thêm tính năng mới cho bot mà không cần thông báo trước. Các cập nhật có thể bao gồm sửa lỗi, thay đổi giao diện, hoặc bổ sung chức năng mới.
+
+>6. Chấm dứt dịch vụ: Chúng tôi có quyền chấm dứt hoặc ngừng cung cấp Bot vào bất kỳ lúc nào mà không có trách nhiệm thông báo hoặc đền bù.
+
+>7. Phản hồi và hỗ trợ: Người dùng có thể gửi phản hồi, báo lỗi, hoặc yêu cầu hỗ trợ qua các kênh chính thức của chúng tôi (ví dụ như GitHub hoặc Discord server hỗ trợ). Chúng tôi sẽ cố gắng hỗ trợ trong thời gian nhanh nhất có thể, nhưng không cam kết giải quyết tất cả vấn đề ngay lập tức. 
