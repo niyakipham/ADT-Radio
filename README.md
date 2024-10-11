@@ -38,3 +38,15 @@ Tính năng nổi bật:
 
 AniKun là trợ thủ hoàn hảo cho mọi cộng đồng yêu thích anime trên Discord!
 
+## INSTALL 
+```shell
+git clone https://github.com/niyakipham/anime-bot.git
+cd anime-bot
+pip install -r requirements.txt
+```
+
+Sau khi cài đặt xong hãy dán Token của bạn vào 
+
+```shell
+bot.run('DISCORD_TOKEN')
+```
