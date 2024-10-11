@@ -38,7 +38,10 @@ Tính năng nổi bật:
 
 AniKun là trợ thủ hoàn hảo cho mọi cộng đồng yêu thích anime trên Discord!
 
-
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
 
 ## INSTALL 
 ```shell
