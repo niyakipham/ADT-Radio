@@ -1,4 +1,3 @@
-###### *<div align="right"><sub>// design by t2</sub></div>*
 <div align = center>
     <a href="https://discord.gg/AYbJ9MJez7">
 <img alt="Dynamic JSON Badge" src="https://cdn.discordapp.com/attachments/1294085129882304522/1294103121336733829/empty.png?ex=6709caf3&is=67087973&hm=fff8775cc56a51cf725b614533c48158d7f28cd4f9024bc1d08654573e8c5470&">
@@ -13,7 +12,7 @@
 <br>
 
   <a href="#INTRODUCE"><kbd> <br> INTRODUCE <br> </kbd></a>&ensp;&ensp;
-  <a href="#themes"><kbd> <br> Themes <br> </kbd></a>&ensp;&ensp;
+  <a href="#INSTALL"><kbd> <br> INSTALL <br> </kbd></a>&ensp;&ensp;
   <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
@@ -55,3 +54,10 @@ Sau khi cài đặt xong hãy dán Token của bạn vào
 ```shell
 bot.run('DISCORD_TOKEN')
 ```
+CHÚC BẠN THÀNH CÔNG
+
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
+
