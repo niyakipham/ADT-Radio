@@ -14,7 +14,7 @@
   <a href="#INTRODUCE"><kbd> <br> INTRODUCE <br> </kbd></a>&ensp;&ensp;
   <a href="#INSTALL"><kbd> <br> INSTALL <br> </kbd></a>&ensp;&ensp;
   <a href="#CMD"><kbd> <br> CMD <br> </kbd></a>&ensp;&ensp;
-  <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
+  <a href="#SERVICE"><kbd> <br> SERVICE <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
@@ -76,6 +76,11 @@ Sau đây là những lệnh mà bot thực thi
 | <kbd>!xtrap</kbd> | Lệnh này sẽ random ảnh Hentai LGBT |
 | <kbd>!xgif</kbd> | Lệnh này sẽ random ảnh GIF Hentai |
 
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
+
 ## SERVICE
 > 1. Giới thiệu: Khi bạn thêm và sử dụng Bot Discord của chúng tôi (gọi là "Bot"), bạn đồng ý tuân thủ các điều khoản sau đây. Điều khoản này có thể được cập nhật bất kỳ lúc nào mà không cần thông báo trước, và bạn có trách nhiệm kiểm tra thường xuyên để cập nhật các thay đổi. 
 
@@ -91,3 +96,10 @@ Sau đây là những lệnh mà bot thực thi
 >6. Chấm dứt dịch vụ: Chúng tôi có quyền chấm dứt hoặc ngừng cung cấp Bot vào bất kỳ lúc nào mà không có trách nhiệm thông báo hoặc đền bù.
 
 >7. Phản hồi và hỗ trợ: Người dùng có thể gửi phản hồi, báo lỗi, hoặc yêu cầu hỗ trợ qua các kênh chính thức của chúng tôi (ví dụ như GitHub hoặc Discord server hỗ trợ). Chúng tôi sẽ cố gắng hỗ trợ trong thời gian nhanh nhất có thể, nhưng không cam kết giải quyết tất cả vấn đề ngay lập tức. 
+
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
+
+#LINKS
