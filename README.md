@@ -12,7 +12,7 @@
 <div align="center">
 <br>
 
-  <a href="#Giới Thiệu"><kbd> <br> Giới Thiệu <br> </kbd></a>&ensp;&ensp;
+  <a href="#INTRODUCE"><kbd> <br> INTRODUCE <br> </kbd></a>&ensp;&ensp;
   <a href="#themes"><kbd> <br> Themes <br> </kbd></a>&ensp;&ensp;
   <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
@@ -22,7 +22,7 @@
 
   </div><br><br>
 
-## Giới Thiệu
+## INTRODUCE
 AniKun - Bot Search Anime | Random Anime Image
 
 > [Thông Tin]
