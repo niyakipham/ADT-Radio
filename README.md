@@ -1,123 +1,40 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LofiRadio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/diwasatreya/Lofi-Radio">
-    <img src="https://images-ext-2.discordapp.net/external/_L-BF6LDZ6x0PPbx4ABpZqm7SpEW6F2VQskVss3Rpro/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1119895957648179201/629ee93cd5140ad6809b4cc6c4912096.png?width=466&height=466" alt="Pbot-plus" width="200" height="200">
-  </a>
-
-  <h3 align="center">Lofi Radio</h3>
+###### *<div align="right"><sub>// design by t2</sub></div>*
+<div align = center>
+    <a href="https://discord.gg/AYbJ9MJez7">
+<img alt="Dynamic JSON Badge" src="https://cdn.discordapp.com/attachments/1294085129882304522/1294103121336733829/empty.png?ex=6709caf3&is=67087973&hm=fff8775cc56a51cf725b614533c48158d7f28cd4f9024bc1d08654573e8c5470&">
+    </a>
+</div>
+  <h3 align="center">AniKun - Bot Search Anime - Random Image Anime</h3>
 
   <p align="center">
-    It is a discord music bot which can play lo-fi song 24/7 &  more functions of lofi radio bot
-    <br />
-    <br />
-    <a href="https://github.com/diwasatreya/Lofi-Radio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/diwasatreya/Lofi-Radio/issues">Request Feature</a>
-  </p>
-</p>
-<!-- ABOUT THE PROJECT -->
+    Chào mừng đến với AniKun - Bot Search Anime - Random Image Anime</p>
 
-
-## 🌟 Functions
--  Radio Mode
--  24/7 VC 
--  Music Collection
--  Dj Roles
--  Slash Command
--  Stations
--  Profile Card
--  Sleep Timer
-
+<div align="center">
 <br>
 
-## 🎛️ Requirement
--  Nodejs v16+
--  Java v13 (for lavalink server)
--  yarn  `npm i -g yarn `
+  <a href="#Giới Thiệu"><kbd> <br> Giới Thiệu <br> </kbd></a>&ensp;&ensp;
+  <a href="#themes"><kbd> <br> Themes <br> </kbd></a>&ensp;&ensp;
+  <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
+  <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
+  <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
+  <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+  <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
 
-<br>
+  </div><br><br>
 
-## ⚙️ Installation 
-Fill all requirement in `src/config.js` or `.env`
+## Giới Thiệu
+AniKun - Bot Search Anime | Random Anime Image
 
-• [yarn](https://yarnpkg.com/)
+> [Thông Tin]
+> AniKun là một bot Discord độc đáo dành cho các fan anime, giúp bạn khám phá thế giới anime một cách dễ dàng và thú vị. Với AniKun, bạn có thể nhanh chóng tìm kiếm thông tin về các bộ anime, nhân vật, và series yêu thích thông qua các lệnh tìm kiếm mạnh mẽ. Không chỉ vậy, AniKun còn cung cấp các hình ảnh anime ngẫu nhiên, mang lại niềm vui bất ngờ cho người dùng!
 
-For install all dependencies use
-```
-yarn
-```
-To start your bot 
-```
-yarn start
-```
-**OR DO THIS INSTEAD**
+Tính năng nổi bật:
 
-• [Npm](https://www.npmjs.com/)
+🔍 Tìm kiếm Anime: Dễ dàng tìm thông tin chi tiết về các bộ anime, bao gồm nhân vật, nội dung, và đánh giá.
 
-For install all dependencies use
-```
-npm install
-```
-To start your bot 
-```
-node src/index.js 
-```
+📸 Random Anime Images: Nhận hình ảnh anime ngẫu nhiên để làm phong phú cuộc trò chuyện của bạn.
 
-For replit: Open Hidden Files => Goto `replit.nix` and copy these and paste in that file 
+🧑‍💻 Thao tác đơn giản: Sử dụng các lệnh nhanh, dễ nhớ, thân thiện với mọi người dùng.
 
-[![Run on Repl.it](https://repl.it/badge/github/diwasatreya/Lofi-Radio)](https://repl.it/github/diwasatreya/Lofi-Radio)
+AniKun là trợ thủ hoàn hảo cho mọi cộng đồng yêu thích anime trên Discord!
 
-  ```
-  { pkgs }: {
-	deps = [
-    pkgs.libuuid
-		pkgs.nodejs-18_x
-    pkgs.nodePackages.typescript-language-server
-    pkgs.yarn
-    pkgs.replitPackages.jest
-	];
-  env = { LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [pkgs.libuuid];  };
-}
-```
-
-- You can download all the emoji of this bot from [Here](./emote/) (Changing Emoji will be little complex for you)
-
-###
-If you liked this repository, feel free to leave a star ⭐ to help promote !
-
-<br>
-
-## 🖼️ Screenshots
-<br />
-<p align="center">
-  <a href="https://github.com/diwasatreya/Lofi-Radio">
-    <img src="./Preview/help.png">
-    <img src="./Preview/image.png">
-    <img src="./Preview/sleep.png">
-  </a>
-</p>
-
-<br>
-
-# Note
-This bot base on the lofi-radio(verified) discord bot which is in nearby 850k server & this is not official code of that bot. Also, you don't have permission to make public bot using this code!. The logo, emojis & colors are all copied from Lofi Radio Discord Bot. <3
-
-- [Original Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=830530156048285716&permissions=66407488&scope=applications.commands%20bot)
-
-<br>
-
-# 💌 Support Server 
-- [Error? Join US](https://discord.com/invite/aromax-development-708565122188312579)
-- [YouTube](https://www.youtube.com/c/diwasatreya)
-
-<br>
-
-# Custom Discord Bot
-
- If you want bot more advance than this then you can order!
-
-- [Fiverr](https://www.fiverr.com/diptiatreya)
