@@ -78,4 +78,5 @@ Sau đây là những lệnh mà bot thực thi
 
 ## SERVICE
 > 1. Giới thiệu Khi bạn thêm và sử dụng Bot Discord của chúng tôi (gọi là "Bot"), bạn đồng ý tuân thủ các điều khoản sau đây. Điều khoản này có thể được cập nhật bất kỳ lúc nào mà không cần thông báo trước, và bạn có trách nhiệm kiểm tra thường xuyên để cập nhật các thay đổi. 
-> cdscsd
+\n
+> ccsdc
