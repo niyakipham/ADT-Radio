@@ -13,7 +13,7 @@
 
   <a href="#INTRODUCE"><kbd> <br> INTRODUCE <br> </kbd></a>&ensp;&ensp;
   <a href="#INSTALL"><kbd> <br> INSTALL <br> </kbd></a>&ensp;&ensp;
-  <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
+  <a href="#CMD"><kbd> <br> CMD <br> </kbd></a>&ensp;&ensp;
   <a href="#keybindings"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
@@ -61,3 +61,18 @@ CHÚC BẠN THÀNH CÔNG
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
+## CMD
+Sau đây là những lệnh mà bot thực thi
+
+| Lệnh | Mô Tả |
+| :--- | :--- |
+| <kbd>!anime</kbd> | !anime + tên anime mà bạn muốn tìm kiếm|
+| <kbd>!awaifu</kbd> | Lệnh này sẽ random ảnh Anime Waifu |
+| <kbd>!aneko</kbd> | Lệnh này sẽ random ảnh Anime Neko |
+| <kbd>!akis</kbd> | Lệnh này sẽ random ảnh GIF Anime Hôn Nhau |
+| <kbd>!acuddle</kbd> | Lệnh này sẽ random ảnh GIF Anime Ôm Ấp |
+| <kbd>!apat</kbd> | Lệnh này sẽ random ảnh GIF Anime Vô Về |
+| <kbd>!xwaifu</kbd> | Lệnh này sẽ random ảnh Hentai Waifu |
+| <kbd>!xneko</kbd> | Lệnh này sẽ random ảnh Hentai Neko |
+| <kbd>!xtrap</kbd> | Lệnh này sẽ random ảnh Hentai LGBT |
+| <kbd>!xgif</kbd> | Lệnh này sẽ random ảnh GIF Hentai |
