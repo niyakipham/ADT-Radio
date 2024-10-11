@@ -24,7 +24,6 @@
 ## INTRODUCE
 AniKun - Bot Search Anime | Random Anime Image
 
-> [Thông Tin]
 > AniKun là một bot Discord độc đáo dành cho các fan anime, giúp bạn khám phá thế giới anime một cách dễ dàng và thú vị. Với AniKun, bạn có thể nhanh chóng tìm kiếm thông tin về các bộ anime, nhân vật, và series yêu thích thông qua các lệnh tìm kiếm mạnh mẽ. Không chỉ vậy, AniKun còn cung cấp các hình ảnh anime ngẫu nhiên, mang lại niềm vui bất ngờ cho người dùng!
 
 Tính năng nổi bật:
@@ -76,3 +75,7 @@ Sau đây là những lệnh mà bot thực thi
 | <kbd>!xneko</kbd> | Lệnh này sẽ random ảnh Hentai Neko |
 | <kbd>!xtrap</kbd> | Lệnh này sẽ random ảnh Hentai LGBT |
 | <kbd>!xgif</kbd> | Lệnh này sẽ random ảnh GIF Hentai |
+
+## SERVICE
+> 1. Giới thiệu Khi bạn thêm và sử dụng Bot Discord của chúng tôi (gọi là "Bot"), bạn đồng ý tuân thủ các điều khoản sau đây. Điều khoản này có thể được cập nhật bất kỳ lúc nào mà không cần thông báo trước, và bạn có trách nhiệm kiểm tra thường xuyên để cập nhật các thay đổi. 
+> cdscsd
