@@ -15,9 +15,9 @@
   <a href="#INSTALL"><kbd> <br> INSTALL <br> </kbd></a>&ensp;&ensp;
   <a href="#CMD"><kbd> <br> CMD <br> </kbd></a>&ensp;&ensp;
   <a href="#SERVICE"><kbd> <br> SERVICE <br> </kbd></a>&ensp;&ensp;
-  <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/prasanthrangan/hyprdots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
-  <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
+  <a href="PRIVACY"><kbd> <br> PRIVACY <br> </kbd></a>&ensp;&ensp;
+  <a href="https://discord.com/oauth2/authorize?client_id=1289528997088067606&permissions=2048&integration_type=0&scope=bot"><kbd> <br> INVITE BOT <br> </kbd></a>&ensp;&ensp;
+  <a href="https://discord.gg/te5eGwJZMU"><kbd> <br> Discord <br> </kbd></a>
 
   </div><br><br>
 
