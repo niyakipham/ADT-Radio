@@ -102,4 +102,13 @@ Sau đây là những lệnh mà bot thực thi
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
-#LINKS
+## PRIVACY
+> MÃ NGUỒN NÀY ĐƯỢC TẠO RA ĐỂ MANG MỤC ĐÍCH HỌC TẬP, CHÚNG TÔI SẼ KHÔNG THU TẬP THÔNG TIN HAY DDOS SERVER,...
+
+<div align="right">
+  <br>
+  <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
+</div>
+
+CẢM ƠN VÌ ĐÃ ĐỌC
+NIYAKI PHẠM
